@@ -276,11 +276,11 @@ class AimAssessAccomplish(tk.Frame):
 
 
     def start_break(self, reset=False, auto=False):
-        # Add the current session to the session history and update the stats
-        self.update_session()
-
-        # Set the target goal and session time
         if not auto:
+            # Add the current session to the session history and update the stats
+            self.update_session()
+
+            # Set the target goal and session time
             all_settings = get_settings()
             self.target_goal = 'Take a Break!'
             self.session_time = round(all_settings['break_time'] * 60)
