@@ -1,0 +1,7 @@
+# Create a GUI that allows you to set a target goal for the next session and set a timer for that session. The default session time is 30 minutes.
+# When the timer is up, the application will ask you if you met your target goal. If you did, the application will congratulate you and ask you to set a new target goal for the next session.
+# If you did not meet your target goal, the application will ask you to adjust your target goal as needed and set a new timer for the next session.
+# Regardless of whether you met your target goal or not, the application will ask you about your focus level and if you want to take a break. If you do, the application will set a timer for a 5-10 minute break.
+# The application will keep track of how many sessions you have completed and how many times you have met your target goal.
+# The application will also keep track of the average time it takes you to complete a session and the average number of times you meet your target goal.
+# The application will also keep track of the longest streak of sessions you have completed and the current streak of sessions completed.
