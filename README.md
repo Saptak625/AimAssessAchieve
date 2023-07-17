@@ -1,2 +1,3 @@
 # AimAssessAchieve
-A simple application meant to hold you responsible to work targets you set.
+<img src=https://github.com/Saptak625/AimAssessAchieve/blob/dbda7534d3aee515fd4449adf771c5d980d09650/aim_assess_achieve_logo.png>
+AimAssessAchieve is a work productivity application meant to hold you responsible to work targets you set. Instead of micro-managing you like other apps, AimAssessAchieve is designed to assist you in becoming independent by allowing you to set your own goals and take breaks as you need them. Rather than allocating large chunks of time, when productivity tends to drop, AimAssessAchieve is designed to check in with you much more regularly allowing you to adjust your work strategy to optimize productivity and reduce needless fatigue. The bite-sized sessions help you take things one step at a time to make achieving your goals less daunting.
