@@ -349,7 +349,8 @@ class AimAssessAccomplish(tk.Frame):
         # NOTE: The theme's real name is azure-<mode>
         if self.root.tk.call("ttk::style", "theme", "use") == "azure-dark":
             # Set light theme
-            self.root.tk.call("set_theme", "light")
+            style = ttk.Style(self.root)
+            style.theme_use('clam')
         else:
             # Set dark theme
             self.root.tk.call("set_theme", "dark")
